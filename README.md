@@ -47,22 +47,6 @@ To install the dependencies, run:
 pip install pandas numpy matplotlib seaborn scipy
 ```
 
-## Usage
-1. Clone the repository:
-```bash
-git clone <repository-url>
-```
-
-2. Navigate to the project directory:
-```bash
-cd sales-forecasting-optimization
-```
-
-3. Run the Jupyter Notebook:
-```bash
-jupyter notebook Sales_Forecasting_optimization.ipynb
-```
-
 ## Results
 The project demonstrates a robust approach to forecasting sales using historical data. Key findings and visualizations are included in the notebook to provide insights into sales trends and optimization strategies.
 

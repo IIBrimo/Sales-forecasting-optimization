@@ -66,9 +66,6 @@ jupyter notebook Sales_Forecasting_optimization.ipynb
 ## Results
 The project demonstrates a robust approach to forecasting sales using historical data. Key findings and visualizations are included in the notebook to provide insights into sales trends and optimization strategies.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 

@@ -41,6 +41,7 @@ The dataset includes detailed records of sales transactions with the following a
 - Matplotlib
 - Seaborn
 - SciPy
+- Sklearn
 
 To install the dependencies, run:
 ```bash
